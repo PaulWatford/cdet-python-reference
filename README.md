@@ -40,7 +40,7 @@ All audits are reproducible via `python -m pytest tests/`.
 ## Install
 
 ```bash
-git clone https://github.com/<user>/cdet-python-reference.git
+git clone https://github.com/PaulWatford/cdet-python-reference.git
 cd cdet-python-reference
 pip install -e .
 ```
